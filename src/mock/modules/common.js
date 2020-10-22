@@ -101,6 +101,16 @@ if (debug) {
         "color": "success",
         "icon": "ios-easel",
         "image": null
+      },{
+        "id": 8,
+        "permissionsname": "Excel",
+        "permissionsenglish": "excelModel",
+        "state": true,
+        "type": 2,
+        "parentid": 3,
+        "color": "success",
+        "icon": "ios-easel",
+        "image": null
       },]
     }
   });
